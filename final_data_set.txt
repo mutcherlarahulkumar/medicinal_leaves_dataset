@@ -1,0 +1,986 @@
+[
+  {
+    '#': '1',
+    'Name of the Plant': 'Abelmoschus esculentus (L.) Moench',
+    Family: 'MALVACEAE',
+    'Common Name': 'Bhindi, Bhindi tori',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003881&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003881L.jpg',
+    uses: 'From the fruits a mucilaginous preparation is made which are considered benificial as plasma replacement or blood vo
+lume expander. The immature capsules  of the plant are used as demulcent,  diuretic and the seeds  of the plant are used as ant
+ispasmodic, cordial and stimulant.'
+  },
+  {
+    '#': '2',
+    'Name of the Plant': 'Abelmoschus ficulneus (L.) Wight & Arn.',
+    Family: 'MALVACEAE',
+    'Common Name': 'Ran Bhendi',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003882&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003882L.jpg',
+    uses: 'The fruits of the plant have high content of vitamin C than Abelmoschus esculentus.'
+  },
+  {
+    '#': '3',
+    'Name of the Plant': 'Abelmoschus manihot (L.) Medik.',
+    Family: 'MALVACEAE',
+    'Common Name': 'Jangli Bhindi, Kantalo Bhendo (Guj.)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003879&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003879L.jpg',
+    uses: 'The bark of the plant is used as emmenagogue.'
+  },
+  {
+    '#': '4',
+    'Name of the Plant': 'Abelmoschus moschatus Medik.',
+    Family: 'MALVACEAE',
+    'Common Name': 'Muskdana, Kasturi dana',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003878&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003878L.jpg',
+    uses: 'The seed of the plant is musk scented and is known as- Ambrette seeds or Grams-d?Ambrett and is used as stimulant, t
+onic andcarminative.'
+  },
+  {
+    '#': '5',
+    'Name of the Plant': 'Abies spectabilis (D. Don) Spach.',
+    Family: 'PINACEAE',
+    'Common Name': 'Talish patra, Gobra salla (Nepal)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000009739&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000009739L.jpg',
+    uses: 'Leaves are carminative in nature and is, used for relieving cough and phthisis.'
+  },
+  {
+    '#': '6',
+    'Name of the Plant': 'Abroma agusta (L.) L.f.',
+    Family: 'STERCULIACEAE',
+    'Common Name': 'Ulatkambal',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003861&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003861L.jpg',
+    uses: 'For emmenagogue and  uterine tonic roots are used.  The leaves of the plant is used for diabetes, rheumatic pains, s
+inusitis and  uterine disorders. Cholesterol level in blood is reduced by using the fatty oil which is rich in linoleic acid ob
+tained from the seeds of the plant.'
+  },
+  {
+    '#': '7',
+    'Name of the Plant': 'Abrus precatorius L.',
+    Family: 'FABACEAE',
+    'Common Name': 'Ratti, Ghungchi',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003654&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003654L.jpg',
+    uses: 'Glycyrrhizin the main constituent of liquorice is obtained from the roots and leaves and the decoction of it is give
+n for coughs and colds. The roots of the plant is having diuretic, tonic, and emetic properties. The seeds of the plant is pres
+cribed in infections of nervous system. The seed paste is applied locally in sciatica, stiffness of shoulder joints and paralys
+is. Protein which is extracted from the seeds shows anti-tumour activity on Yeshida s'
+  },
+  {
+    '#': '8',
+    'Name of the Plant': 'Abutilon hirtum (Lam.) Sweet',
+    Family: 'MALVACEAE',
+    'Common Name': 'Barakanghi',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003898&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003898L.jpg',
+    uses: 'The plant is employed as febrifuge, antiemetic, and anti-inflammatory and also used in urinary troubles and lumbago.
+ The bark of the plant is having astringent and diuretic properties. Leaves extract is diuretic and demulcent. The roots of the
+ plant used as a nervine tonic and antipyretic; also used in piles. It is also used with chaulmugra oil for leucoderma. The see
+ds  of the plant known as-Balbij are rich in mucilage and is having laxative and demu'
+  },
+  {
+    '#': '9',
+    'Name of the Plant': 'Abutilon indicum (L.) Sweet',
+    Family: 'MALVACEAE',
+    'Common Name': 'Kanghi, Kakahi',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003895&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003895L.jpg',
+    uses: 'The plant is employed as febrifuge, antiemetic, and anti-inflammatory and also used in urinary troubles and lumbago.
+ The bark of the plant is having astringent and diuretic properties. Leaves extract is diuretic and demulcent. The roots of the
+ plant used as a nervine tonic and antipyretic; also used in piles. It is also used with chaulmugra oil for leucoderma. The see
+ds  of the plant known as-Balbij are rich in mucilage and is having laxative and demu'
+  },
+  {
+    '#': '10',
+    'Name of the Plant': 'Abutilon pannosum (Forst.) Schlect.',
+    Family: 'MALVACEAE',
+    'Common Name': 'Kakrai',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003896&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003896L.jpg',
+    uses: 'The leaves of the plant containing the  mucilage is used in piles and pectoral.'
+  },
+  {
+    '#': '11',
+    'Name of the Plant': 'Abutilon theophrastii Medik.',
+    Family: 'MALVACEAE',
+    'Common Name': 'Indian Mallow (Eng.)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003897&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003897L.jpg',
+    uses: 'The decoction of seeds is used in dysentery and fistula, and also for sore eyes.'
+  },
+  {
+    '#': '12',
+    'Name of the Plant': 'Acacia catechu (L.f.) Willd.',
+    Family: 'MIMOSACEAE',
+    'Common Name': 'Khair',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003537&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003537L.jpg',
+    uses: 'Cutch from wood powerful astringent used in urinary and\n' +
+      'vaginal discharge, antidiarrhoeal,\n' +
+      'haemostatic; used for treating\n' +
+      'excessive mucous discharges,\n' +
+      'haemorrhages, relaxed conditions\n' +
+      'of gums, throat and mouth, stomatitis, irritable bowel; also used as an antileprotic drug.'
+  },
+  {
+    '#': '13',
+    'Name of the Plant': 'Acacia farnesiana (L.) Willd.',
+    Family: 'MIMOSACEAE',
+    'Common Name': 'Vilayati kikar',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003548&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003548L.jpg',
+    uses: 'Bark used in stomatitis,\n' +
+      'ulcers, swollen gums, dental\n' +
+      'caries, bronchitis, skin diseases.'
+  },
+  {
+    '#': '14',
+    'Name of the Plant': 'Acacia jacquemontii Benth.',
+    Family: 'MIMOSACEAE',
+    'Common Name': 'Kikar, Babul (Punjab)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003539&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003539L.jpg',
+    uses: 'Bud and bark used in ringworm, other skin disease.'
+  },
+  {
+    '#': '15',
+    'Name of the Plant': 'Acacia leucophloea (Roxb.) Willd.',
+    Family: 'MIMOSACEAE',
+    'Common Name': 'Safed kikar, Arimeda',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003540&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003540L.jpg',
+    uses: 'Leaves antisyphilitic and antibacterial. Gum demulcent. Bark bitter, demulcent and\n' +
+      'cooling used in biliousness and\n' +
+      'bronchitis.'
+  },
+  {
+    '#': '16',
+    'Name of the Plant': 'Acacia modesta Wall.',
+    Family: 'MIMOSACEAE',
+    'Common Name': 'Phulai (Punjab)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003532&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003532L.jpg',
+    uses: 'Tender twigs, cleared of thorns, are chewed to make brushes (Datoon) for cleaning teeth.'
+  },
+  {
+    '#': '17',
+    'Name of the Plant': 'Acacia nilotica (L.) Willd. ex Delile',
+    Family: 'MIMOSACEAE',
+    'Common Name': 'Kirkar, Babula',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003542&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003542L.jpg',
+    uses: 'Stembark astringent,\n' +
+      'spasmolytic, hypoglycaemic.\n' +
+      'Gum demulcent (soothing agent\n' +
+      'for inflammatory conditions of the respiratory, digestive and urinary tracts). Pods used in urogenital disorders. Seed o
+il antifungal.'
+  },
+  {
+    '#': '18',
+    'Name of the Plant': 'Acacia pennata (L.) Willd.',
+    Family: 'MIMOSACEAE',
+    'Common Name': 'Aila, Biswal',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003528&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003528L.jpg',
+    uses: 'Bark antibilious, antiasthmatic.\n' +
+      'Leaf stomachic, styptic (for bleeding gum), antiseptic (for\n' +
+      'scalding of urine). A decoction of young leaves is taken for body pain, headache and fever.'
+  },
+  {
+    '#': '19',
+    'Name of the Plant': 'Acacia rugata (Lam.) Merr.',
+    Family: 'MIMOSACEAE',
+    'Common Name': 'Kochi, Ritha',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003535&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003535L.jpg',
+    uses: 'Leaves an infusion is given in malarial fever. Pods and seeds decoction is used to remove\n' +
+      'dandruff. An ointment is used for skin diseases. Bark extract is used in leprosy.'
+  },
+  {
+    '#': '20',
+    'Name of the Plant': 'Acacia senegal (L.) Willd.',
+    Family: 'MIMOSACEAE',
+    'Common Name': 'Goradio-babul (Guj.)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003534&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003534L.jpg',
+    uses: 'Stembark antiinflammatory, spasmolytic. Root used for dysentery and urinary discharges.'
+  },
+  {
+    '#': '21',
+    'Name of the Plant': 'Acacia torta (Roxb.) Craib',
+    Family: 'MIMOSACEAE',
+    'Common Name': 'Aila',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003536&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003536L.jpg',
+    uses: 'Flower is used in emmenagogue.\n' +
+      'Bark anti-inflammatory, antisepticused in skin diseases.'
+  },
+  {
+    '#': '22',
+    'Name of the Plant': 'Acalypha fruticosa Forsk.',
+    Family: 'EUPHORBIACEAE',
+    'Common Name': 'Chinniaka (Tel.)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000008970&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000008970L.jpg',
+    uses: 'Leaves are used to treat digestive troubles and its infusion is used as vulnerary.\n' +
+      ' Leaf juice is used in ophthalmia.'
+  },
+  {
+    '#': '23',
+    'Name of the Plant': 'Acalypha indica L.',
+    Family: 'EUPHORBIACEAE',
+    'Common Name': 'Kuppi, Khokli',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000008971&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000008971L.jpg',
+    uses: 'Decoction is used as laxative.The herb is used against severe cough associated with\n' +
+      ' bleeding from the lungs (haemoptysis) and insipient phthisis. Leaf juice is employed\n' +
+      ' for cutaneous troubles. Juice of fresh leaves are emetic and is useful in croup.'
+  },
+  {
+    '#': '24',
+    'Name of the Plant': 'Acalypha racemosa Wall. ex Bailley',
+    Family: 'EUPHORBIACEAE',
+    'Common Name': 'Valia-kuppameni (Finnish)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000008969&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000008969L.jpg',
+    uses: 'Decoction is used as laxative. The herb is used against severe cough associated with bleeding from \n' +
+      'the lungs (haemoptysis) and insipient phthisis. Leaf juice is  employed for treating  cutaneous troubles.\n' +
+      ' Juice of fresh leaves is a reliable emetic, found useful in cases of croup.'
+  },
+  {
+    '#': '25',
+    'Name of the Plant': 'Acampe papillosa (Lindl.) Lindl.',
+    Family: 'ORCHIDACEAE',
+    'Common Name': 'Alasyakampa (Tel.)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003156&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003156L.jpg',
+    uses: 'Roots used in rheumatism.'
+  },
+  {
+    '#': '26',
+    'Name of the Plant': 'Acanthus illicifolius L.',
+    Family: 'ACANTHACEAE',
+    'Common Name': 'Hargoza',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000009055&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000009055L.jpg',
+    uses: 'Leaves are used for fomentation in neuralgia and rheumatism. It is used as expectorant. \n' +
+      'Roots are used in treating asthma, paralysis, leuchorrhoea, debility.'
+  },
+  {
+    '#': '27',
+    'Name of the Plant': 'Achillea millefolium L.',
+    Family: 'ASTERACEAE',
+    'Common Name': 'Gandana, Roojamari (Kan.)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000013619&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000013619L.jpg',
+    uses: 'A decoction of it is given in colic. Contains the alkaloid achilline ; also yields an essential oil, used as a haemo
+static. Herb considered\n' +
+      'astringent, tonic, diaphoretic, vulnerary and styptic. Decoction of leaves carminative and stimulant.'
+  },
+  {
+    '#': '28',
+    'Name of the Plant': 'Achyranthes aspera L.',
+    Family: 'AMARANTHACEAE',
+    'Common Name': 'Latjira',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000008913&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000008913L.jpg',
+    uses: 'Decoction of herb is diuretic and used in renal dropsies.'
+  },
+  {
+    '#': '29',
+    'Name of the Plant': 'Achyranthes bidentata Blume',
+    Family: 'AMARANTHACEAE',
+    'Common Name': 'Apamarga (Assam)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000008912&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000008912L.jpg',
+    uses: 'Leaf is used in treating cholera, blisters in mouth. Whole plant is used in treating scrofula and \n' +
+      'whooping cough. Root is used to treat hemicrania and scorpion sting.'
+  },
+  {
+    '#': '30',
+    'Name of the Plant': 'Aconitum balfourii Stapf',
+    Family: 'RANUNCULACEAE',
+    'Common Name': 'Gobari (West Nepal)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000009929&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000009929L.jpg',
+    uses: 'Yields an alkaloid pseudaconitine'
+  },
+  {
+    '#': '31',
+    'Name of the Plant': 'Aconitum bisma (Buch. -Ham.) Rapaics',
+    Family: 'RANUNCULACEAE',
+    'Common Name': 'Bikhima',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000009935&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000009935L.jpg',
+    uses: 'The root extracts are used as a tonic in case of vomiting and bowel problems.'
+  },
+  {
+    '#': '32',
+    'Name of the Plant': 'Aconitum chasmanthum Holmes ex Stapf',
+    Family: 'RANUNCULACEAE',
+    'Common Name': 'Bisha, Ban-bal-nag (Kashmir)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000009930&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000009930L.jpg',
+    uses: 'Roots yield many medicinally important alkaloids.'
+  },
+  {
+    '#': '33',
+    'Name of the Plant': 'Aconitum falconeri Stapf',
+    Family: 'RANUNCULACEAE',
+    'Common Name': 'Bis (Gharwal)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000009927&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000009927L.jpg',
+    uses: 'Roots employed for treating nervous and digestive diseases , rheumatism and fevers.'
+  },
+  {
+    '#': '34',
+    'Name of the Plant': 'Aconitum heterophyllum Wall. ex Royle',
+    Family: 'RANUNCULACEAE',
+    'Common Name': 'Atis',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000009938&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000009938L.jpg',
+    uses: 'Roots are used for treating hysteria, throat infections, dyspepsia, vomiting, abdominal pain and diabetes.'
+  },
+  {
+    '#': '35',
+    'Name of the Plant': 'Aconitum laciniatum (Bruhl) Stapf',
+    Family: 'RANUNCULACEAE',
+    'Common Name': 'Kalo bikhoma (Sikkim)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000009933&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000009933L.jpg',
+    uses: 'Root extracts used in commercial drugs.'
+  },
+  {
+    '#': '36',
+    'Name of the Plant': 'Aconitum novoluridum Munz',
+    Family: 'RANUNCULACEAE',
+    'Common Name': 'Mahoor',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000009928&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000009928L.jpg',
+    uses: 'Used to treat neuralgia and rheumatism.'
+  },
+  {
+    '#': '37',
+    'Name of the Plant': 'Aconitum spicatum (Bruhl) Stapf',
+    Family: 'RANUNCULACEAE',
+    'Common Name': 'Bikh or Bish (Nepal & Sikkim)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000009934&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000009934L.jpg',
+    uses: 'Roots yield alkaloids which have antipyretic and analgesic properties.'
+  },
+  {
+    '#': '38',
+    'Name of the Plant': 'Aconitum violaceum Jacq. Ex Stapf',
+    Family: 'RANUNCULACEAE',
+    'Common Name': 'Tilia Kachang (Sutlej Basin)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000009931&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000009931L.jpg',
+    uses: 'Roots yield an alkaloid which is used as a tonic.'
+  },
+  {
+    '#': '39',
+    'Name of the Plant': 'Acorus calamus L.',
+    Family: 'ARACEAE',
+    'Common Name': 'Bach, Gora-bach',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003221&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003221L.jpg',
+    uses: 'Rhizomes used in epilepsy and other mental ailments, chronic diarrhoea and dysentery, and glandular and abdominal tu
+mours.'
+  },
+  {
+    '#': '40',
+    'Name of the Plant': 'Acronychia pedunculata (L.) Miq.',
+    Family: 'RUTACEAE',
+    'Common Name': 'Paowlay (Nepal)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000009965&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000009965L.jpg',
+    uses: 'Root and bark is applied to sores and ulcers.'
+  },
+  {
+    '#': '41',
+    'Name of the Plant': 'Actaea spicata L.',
+    Family: 'RANUNCULACEAE',
+    'Common Name': 'Vishaphala (Kan.)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000009925&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000009925L.jpg',
+    uses: 'Rhizome extract is used for nervous disorders, ovarian neuralgia and uterine tenderness.'
+  },
+  {
+    '#': '42',
+    'Name of the Plant': 'Actiniopteris radiata(Swartz) Link',
+    Family: 'ACTINIOPTERIDACEAE',
+    'Common Name': 'Morpankhi, Morshikha (Local names)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003275&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003275L.jpg',
+    uses: 'Stem and leaves used as styptic, antibacterial, antipyretic, also used in Gynaec complication, headache and dysent.'
+  },
+  {
+    '#': '43',
+    'Name of the Plant': 'Actinodaphne hookeri Meissn.',
+    Family: 'LAURACEAE',
+    'Common Name': 'Tudambo (Oriya)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000008845&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000008845L.jpg',
+    uses: 'In case of ordinary disorders leaves are utilized. The oil which made form the seed is ustilized for sprains.'      
+  },
+  {
+    '#': '44',
+    'Name of the Plant': 'Adansonia digitata L.',
+    Family: 'BOMBACACEAE',
+    'Common Name': 'Gorak, Amli',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003871&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003871L.jpg',
+    uses: 'The pulp of the fruits is diaphoretic,  and gives comfort in case of bronchial asthma and allergic dermatitis.'     
+  },
+  {
+    '#': '45',
+    'Name of the Plant': 'Adenanthera pavonia L.',
+    Family: 'MIMOSACEAE',
+    'Common Name': 'Barigumchi, Kunchandana (Sans.)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003924&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003924L.jpg',
+    uses: 'The seeds as well as wood decoction is employed for pulmonary infections and in chronic ophthalmia it applied. The s
+eeds of the plant show inhibitory activity against trypsin and a-chymotripsin, but if the seeds are subjected to heat it will l
+oose its activity.'
+  },
+  {
+    '#': '46',
+    'Name of the Plant': 'Adenia wightiana (Wall. ex Wight & Arn.) Engl.',
+    Family: 'PASSIFLORACEAE',
+    'Common Name': 'Perumkorattaikodi (Tam.)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000013800&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000013800L.jpg',
+    uses: 'Roots and fruits are poisonous.'
+  },
+  {
+    '#': '47',
+    'Name of the Plant': 'Adenostemma lavenia (L.) Kuntze',
+    Family: 'ASTERACEAE',
+    'Common Name': 'Jangli-jira',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000013621&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000013621L.jpg',
+    uses: 'The plant has antiseptic property, used in cuts, insects bite and in wounds.'
+  },
+  {
+    '#': '48',
+    'Name of the Plant': 'Adiantum capillus-veneris L.',
+    Family: 'ADIANTACEAE',
+    'Common Name': 'Hansraj, Mubaraka',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003282&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003282L.jpg',
+    uses: 'The fern is used as a pectoral demulcent, expectorant and tonic. It is boiled in wine which is given in cases of har
+d tumours of the spleen, liver and other viscera.'
+  },
+  {
+    '#': '49',
+    'Name of the Plant': 'Adiantum caudatum L.',
+    Family: 'ADIANTACEAE',
+    'Common Name': 'Mayurshikha (Sans.)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003284&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003284L.jpg',
+    uses: 'Used in hemicrania and diabetes.'
+  },
+  {
+    '#': '50',
+    'Name of the Plant': 'Adiantum philippense L.',
+    Family: 'ADIANTACEAE',
+    'Common Name': 'Kalijhant',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003285&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003285L.jpg',
+    uses: 'Used in blood diseases and epileptic fits. In Bihar, the fern is used in cases of rabies. Rhizomes used for strangur
+y and in fever due to elephantiasis. Fronds are burnt in oil and applied to itch.'
+  },
+  {
+    '#': '51',
+    'Name of the Plant': 'Adiantum venustum D.Don',
+    Family: 'ADIANTACEAE',
+    'Common Name': 'Mayir sikki (Tam.)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003279&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003279L.jpg',
+    uses: 'Used as an anodyne in bronchitis; also used against tumours, biliousness, inflammatory diseases of the chest, and op
+hthalmia.'
+  },
+  {
+    '#': '52',
+    'Name of the Plant': 'Adonis aestivalis L.',
+    Family: 'RANUNCULACEAE',
+    'Common Name': "Summer Pheasant's Eye (Eng.)",
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000009952&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000009952L.jpg',
+    uses: 'Used as a Diuretic and cardiac stimulant. Flowers have laxative properties.'
+  },
+  {
+    '#': '53',
+    'Name of the Plant': 'Aegle marmelos (L.) Corr.',
+    Family: 'RUTACEAE',
+    'Common Name': 'Bel',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000013488&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000013488L.jpg',
+    uses: 'Unripe or half ripe fruits are used as astringent, digestive, and stomachic; also used for diarrhoea and dysentery. 
+Pulp aromatic and cooling, used in the form of sherbet. Marmelosin is the active constituent; it is used  as a laxative and diu
+retic, if used in strong doses act as cardiac depressant.'
+  },
+  {
+    '#': '54',
+    'Name of the Plant': 'Aerva javanica (Burm.f.) Juss. ex Schult.',
+    Family: 'AMARANTHACEAE',
+    'Common Name': 'Bur (Guj.)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000008910&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000008910L.jpg',
+    uses: 'Herb is diuretic and demulcent.'
+  },
+  {
+    '#': '55',
+    'Name of the Plant': 'Aerva lanata (L.) Juss.',
+    Family: 'AMARANTHACEAE',
+    'Common Name': 'Gorakhganja, Chaya (Beng.)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000008911&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000008911L.jpg',
+    uses: 'It is used in cough,sore throat, diabetes and lithiasis.Decoction is diuretic.'
+  },
+  {
+    '#': '56',
+    'Name of the Plant': 'Aesculus indica Colebr. ex Camb.',
+    Family: 'HIPPOCASTANACEAE',
+    'Common Name': 'Pangar',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003574&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003574L.jpg',
+    uses: 'Fruits given to horses in colic. Oil from the seeds used in rheumatism.'
+  },
+  {
+    '#': '57',
+    'Name of the Plant': 'Aganosma caryophyllata G.Don',
+    Family: 'APOCYNACEAE',
+    'Common Name': 'Maalati',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000009282&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000009282L.jpg',
+    uses: 'It is used as an ingredient of an Ayurvedic compound called Vishgarbha\n' +
+      ' thaila which has anodyne and sedative properties and usedin paraplegia, sciatica and neuralgia.'
+  },
+  {
+    '#': '58',
+    'Name of the Plant': 'Agave americana Blanco',
+    Family: 'AMARYLLIDACEAE',
+    'Common Name': 'Bans-keora, Kantala',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003118&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003118L.jpg',
+    uses: 'Plant also used as a fishpoison. Core of the plant used for ascites, dropsy, venereal sores, and dysentery.  Leaves 
+used as laxative and emmenagogue, also given for scurvy; also syphilis, scrofula and cancer. Roots diuretic and diaphoretic.'  
+  },
+  {
+    '#': '59',
+    'Name of the Plant': 'Agave americana L.',
+    Family: 'AMARYLLIDACEAE',
+    'Common Name': 'Chick-kuri (Local name)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003122&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003122L.jpg',
+    uses: 'Root is diuretic and anti-syphilitic. Sap is laxative, diuretic, emmenagogue and antiscorbutic.'
+  },
+  {
+    '#': '60',
+    'Name of the Plant': 'Agave angustifolia Haw.',
+    Family: 'AMARYLLIDACEAE',
+    'Common Name': 'Kantala (Sans.)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003123&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003123L.jpg',
+    uses: 'Used in contusions of draught cattle.'
+  },
+  {
+    '#': '61',
+    'Name of the Plant': 'Agave sisalana Perr. ex Engelm.',
+    Family: 'AMARYLLIDACEAE',
+    'Common Name': 'Sisal (Eng.)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003120&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003120L.jpg',
+    uses: 'Sap is also used for extraction of hecogenin. Juice of leaves ecbolic.'
+  },
+  {
+    '#': '62',
+    'Name of the Plant': 'Ageratum conyzoides L.',
+    Family: 'ASTERACEAE',
+    'Common Name': 'Uchunti (Beng.)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000013622&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000013622L.jpg',
+    uses: 'Decoction or infusion used in diarrhoea, dysentery, colic with flatulence and other gastrointestinal ailments. Extra
+ct of flowers is useful in Asiatic form of Schwartz Leukaemia and prolonged the life-span of mice.Leaves styptic and vulnerary;
+'
+  },
+  {
+    '#': '63',
+    'Name of the Plant': 'Aglaia elaeagnoidea (Juss.) Benth.',
+    Family: 'MELIACEAE',
+    'Common Name': 'Gandha priyangu, Yerraaduga (Tel.)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000009897&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000009897L.jpg',
+    uses: 'Roots and bark wxtract used in dysentery and skin problems and leaves in abdominal pain. Fruits and seeds given in u
+terine problems.'
+  },
+  {
+    '#': '64',
+    'Name of the Plant': 'Agropyron repens (L.) Beauv.',
+    Family: 'POACEAE',
+    'Common Name': 'Couch grass, Dog grass (Eng.)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003184&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003184L.jpg',
+    uses: 'Rhizomes diuretic and demulcent. Root juice used for cirrhous liver, tumours, and cancerous growths.'
+  },
+  {
+    '#': '65',
+    'Name of the Plant': 'Ailanthus altissima (Mill.) Swingle',
+    Family: 'SIMAROUBACEAE',
+    'Common Name': 'Tree of Heaven (Eng.)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000013486&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000013486L.jpg',
+    uses: 'Bark is antispasmodic and parasiticidal, used as a powerful depressing influence on the nervous system similar to th
+at of tobacco. Used in diarrhoea and dysentery; contain tannin 11%. Root bark may be recommended for cardiac troubles, epilepsy
+  and asthma.'
+  },
+  {
+    '#': '66',
+    'Name of the Plant': 'Ailanthus excelsa Roxb.',
+    Family: 'SIMAROUBACEAE',
+    'Common Name': 'Arlu, Maruk',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000013484&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000013484L.jpg',
+    uses: 'Bark is anthelmintic, antispasmodic, expectorant and febrifuge, used for asthma and bronchitis, dysentery. It is sai
+d to be a good substitute for kurchi bark (Holarrhenci antidysenterica Wall.), contains several quassinoids. Root barks yield a
+lkaloids.'
+  },
+  {
+    '#': '67',
+    'Name of the Plant': 'Ailanthus triphysa (Dennst.) Alston',
+    Family: 'SIMAROUBACEAE',
+    'Common Name': 'Guggul Dhup',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000013482&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000013482L.jpg',
+    uses: 'Bark is carminative, tonic and febrifuge. Juice is used for asthma, bronchitis an dysentery. Decoction is applied in
+ typhoid and constipation. Tree produces a resin (mattipal) which is used in bronchitis and dysentery.'
+  },
+  {
+    '#': '68',
+    'Name of the Plant': 'Ajuga bracteosa Wall. ex Benth.',
+    Family: 'LAMIACEAE',
+    'Common Name': 'Nilkanthi (Sans.)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000008885&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000008885L.jpg',
+    uses: 'Leaves are used as stimulant, diuretic, astringent, febrifuge and useful in gout,\n' +
+      'rheumatism, palsy, amenorrhoea,malaria. Leaves are substitute of quinine to control fever.'
+  },
+  {
+    '#': '69',
+    'Name of the Plant': 'Alangium salvifolium (L.f.) Wang.',
+    Family: 'ALANGIACEAE',
+    'Common Name': 'Akola, Dhera',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000013767&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000013767L.jpg',
+    uses: 'Root bark used for cutaneous troubles;astringent, anthelmintic, purgative, emetic and diaphoretic. Also used forbili
+ousness  and colic and as a substitute for ipecac (Cephaelis ipecacuanha A.Rich.). The bark exhibits antitubercular activity. I
+t contains the alkaloid alangine which shows a selective action on the parasympathetic mechanism, the action being most marked 
+on gastro-intestinal tract. Root extract shows hypotensive\n' +
+      'action. Leaves are hypoglyc'
+  },
+  {
+    '#': '70',
+    'Name of the Plant': 'Albizzia amara (Roxb.) Boivin',
+    Family: 'MIMOSACEAE',
+    'Common Name': 'Lallei (Mar.)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003553&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003553L.jpg',
+    uses: "Flowers and leaves are applied in local inflammations, such as boils, erysipelas. It's cooling and useful in inflamm
+atory infections."
+  },
+  {
+    '#': '71',
+    'Name of the Plant': 'Albizzia lebbeck (L.) Willd.',
+    Family: 'MIMOSACEAE',
+    'Common Name': 'Siris',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003552&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003552L.jpg',
+    uses: 'The seeds used for ophthalmic\n' +
+      'diseases; the oil extracted from them is considered useful in leprosy. The bark used in injuries to the eye.'
+  },
+  {
+    '#': '72',
+    'Name of the Plant': 'Albizzia odoratissima (L.f.) Benth.',
+    Family: 'MIMOSACEAE',
+    'Common Name': 'Kala siris',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003557&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003557L.jpg',
+    uses: 'The bark applied externally, is used efficacious in the leprosy and in inveterate ulcers. The leaves boiled in ghi a
+re used as a remedy for coughs.'
+  },
+  {
+    '#': '73',
+    'Name of the Plant': 'Aleurites mollucana Willd.',
+    Family: 'EUPHORBIACEAE',
+    'Common Name': 'Candle Nut Tree (Eng.)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000008968&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000008968L.jpg',
+    uses: 'Oil obtained from seeds are purgative.'
+  },
+  {
+    '#': '74',
+    'Name of the Plant': 'Alhagi pseudoalhagi (Bieb.) Desv.',
+    Family: 'FABACEAE',
+    'Common Name': 'Bharbharra, Jawasa',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003686&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003686L.jpg',
+    uses: 'The plant contains laxative, diuretic, antibilious, and antiseptic properties. The twigs  of the plant  and also the
+ flowers used for fumigation in piles. For cough decoction of twigs is used.  For swellings and abscesses decoction of roots ar
+e used. Twigs contain alkaloids which showed sympathomimetic activity. A sweet, sugary excretion, Alhagi manna, obtained from t
+he plant is called Taranjabin and used as an expectorant, anti-emetic, and laxative.'
+  },
+  {
+    '#': '75',
+    'Name of the Plant': 'Alhagi pseudoalhagi (Bieb.) Desv.',
+    Family: 'FABACEAE',
+    'Common Name': 'Bharbharra, Jawasa',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003688&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003688L.jpg',
+    uses: 'The leaves of the plant is used in asthma and fever. The flower are employed for blood coagulant.'
+  },
+  {
+    '#': '76',
+    'Name of the Plant': 'Allamanda cathartica L.',
+    Family: 'APOCYNACEAE',
+    'Common Name': 'Harkakra (Beng.)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000009265&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000009265L.jpg',
+    uses: 'Leaves are used as cathartic. Bark and its decoction is administered as hydrogogue in \n' +
+      'ascites.'
+  },
+  {
+    '#': '77',
+    'Name of the Plant': 'Allium cepa L.',
+    Family: 'LILIACEAE',
+    'Common Name': 'Piyaz',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003095&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003095L.jpg',
+    uses: 'Bulbs stimulant, diuretic and expectorant, used against flatulence and dysentery.'
+  },
+  {
+    '#': '78',
+    'Name of the Plant': 'Allium macleanii Baker',
+    Family: 'LILIACEAE',
+    'Common Name': 'Salabmisri',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003093&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003093L.jpg',
+    uses: 'Tubers and fecula of the root are used in medicine.'
+  },
+  {
+    '#': '79',
+    'Name of the Plant': 'Alnus nepalensis D.Don',
+    Family: 'BETULACEAE',
+    'Common Name': 'Utis',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000008926&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000008926L.jpg',
+    uses: 'Bark is used to treat foot diseases.It is diuretic and reduce swelling of the leg.'
+  },
+  {
+    '#': '80',
+    'Name of the Plant': 'Alnus nitida Endl.',
+    Family: 'BETULACEAE',
+    'Common Name': 'Utis',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000008927&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000008927L.jpg',
+    uses: 'Bark is used on cut and wounds.'
+  },
+  {
+    '#': '81',
+    'Name of the Plant': 'Alocasia macrorrhizos (L.) G.Don',
+    Family: 'ARACEAE',
+    'Common Name': 'Boro mankachu (Assam)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003214&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003214L.jpg',
+    uses: 'Leaf used as tringent, styptic, antitumour. Rootstock used as laxative, diuretic (in anasarca); used in inflammation
+s and diseases of abdomen and spleen.'
+  },
+  {
+    '#': '82',
+    'Name of the Plant': 'Aloe vera (L.) Burm.f.',
+    Family: 'LILIACEAE',
+    'Common Name': 'Ghee-kunvar',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003086&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003086L.jpg',
+    uses: 'Leaves are used in treatment of chronic ulcers. Fresh juice is useful in fevers and pulp is used on uterus; root is 
+used in colic.'
+  },
+  {
+    '#': '83',
+    'Name of the Plant': "Aloysia triphylla (L'Herit) Britton",
+    Family: 'VERBENACEAE',
+    'Common Name': 'Aloysia triphylla (Eng.)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000013195&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000013195L.jpg',
+    uses: 'It has carminative, stomachic, and stimulant properties.'
+  },
+  {
+    '#': '84',
+    'Name of the Plant': 'Alpinia galanga (L.) Willd.',
+    Family: 'ZINGIBERACEAE',
+    'Common Name': 'Kulanjan, Barakulanjan',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003138&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003138L.jpg',
+    uses: 'Rhizome used in rheumatism and bronchial catarrh; also considered stimulant and\n' +
+      'carminative.'
+  },
+  {
+    '#': '85',
+    'Name of the Plant': 'Alpinia nigra (Gaertn.) B.L.Burtt',
+    Family: 'ZINGIBERACEAE',
+    'Common Name': 'Gong (Local name)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003140&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003140L.jpg',
+    uses: 'Rhizomes used in gout and colic.'
+  },
+  {
+    '#': '86',
+    'Name of the Plant': 'Alstonia scholaris (L.) R.Br.',
+    Family: 'APOCYNACEAE',
+    'Common Name': 'Chatium, Chattiyan',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000009268&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000009268L.jpg',
+    uses: 'Bark is bitter tonic, febrifuge, anthelmintic, galactagogue and used in the form of \n' +
+      'tincture for chronic diarrhea, asthma and cardiac troubles. It is used as haemostatic.\n' +
+      ' Leaves are used in treatment of beri-beri, dropsy and congested liver. Latex is applied\n' +
+      ' to sores, ulcers, tumours and rheumatic swellings. Ash of the plant is employed as \n' +
+      'caustic to open abscesses.'
+  },
+  {
+    '#': '87',
+    'Name of the Plant': 'Alstonia venenata R.Br.',
+    Family: 'APOCYNACEAE',
+    'Common Name': 'Pazha Munnipala (Tam.)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000009270&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000009270L.jpg',
+    uses: 'Fruits are used in treatment of insanity and epilepsy.'
+  },
+  {
+    '#': '88',
+    'Name of the Plant': 'Alternanthera sessilis (L.) R.Br. ex. DC.',
+    Family: 'AMARANTHACEAE',
+    'Common Name': 'Gudari sag, Giojihra (Sans.)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000008914&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000008914L.jpg',
+    uses: 'It is used as galactogogue and to cure night-blindness.'
+  },
+  {
+    '#': '89',
+    'Name of the Plant': 'Althaea officinalis L.',
+    Family: 'MALVACEAE',
+    'Common Name': 'Marsh Mallow (Eng.)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003901&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003901L.jpg',
+    uses: 'The leaves of the plant is considered as  emollient and demulcent. The  mucilage of the roots is used in making abso
+rbent pills and pastilles. .'
+  },
+  {
+    '#': '90',
+    'Name of the Plant': 'Althaea rosea (L.) Cav.',
+    Family: 'MALVACEAE',
+    'Common Name': 'Holly-Hock (Eng.)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003900&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003900L.jpg',
+    uses: 'A red dye is obtained from the flowers which is used as an indicator in acidimetry and alkalimetry. Also it is consi
+dered asdemulcent, diuretic, emollient,  and used in chest complaints.'
+  },
+  {
+    '#': '91',
+    'Name of the Plant': 'Altingia excelsa Noronha',
+    Family: 'HAMAMELIDACEAE',
+    'Common Name': 'Silaras',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000013710&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000013710L.jpg',
+    uses: 'Resin  known as Rasamala, obtained from this tree, is carminative, expectorant, stomachic, antiscorbutic, and antipy
+retic. Used inleucoderma, vesicular calculi, scabies, lumbago, menorrhagia, early stages of hydrocele, and renal and pulmonary 
+troubles.'
+  },
+  {
+    '#': '92',
+    'Name of the Plant': 'Alysicarpus longifolius (Rottler ex Spreng.) Wight & Arn.',
+    Family: 'FABACEAE',
+    'Common Name': 'Longleaf Alyce Clover (Eng.)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003666&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003666L.jpg',
+    uses: 'As a substitute for liquorice roots are used.'
+  },
+  {
+    '#': '93',
+    'Name of the Plant': 'Alysicarpus vaginalis (L.) DC.',
+    Family: 'FABACEAE',
+    'Common Name': 'Chauli, Sauri',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000003667&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000003667L.jpg',
+    uses: 'The plant is used for bone fracture and pain in joints. The root of the plant is employed in antifertility. The root
+s of the plant is having expeectorant.'
+  },
+  {
+    '#': '94',
+    'Name of the Plant': 'Amaranthus lividus L.',
+    Family: 'AMARANTHACEAE',
+    'Common Name': 'Sada natya, Van natya',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000008840&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000008840L.jpg',
+    uses: 'The plant is rich source of potassium nitrate.'
+  },
+  {
+    '#': '95',
+    'Name of the Plant': 'Amaranthus tricolor L.',
+    Family: 'AMARANTHACEAE',
+    'Common Name': 'Lal sag, Chaulai sag',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000008838&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000008838L.jpg',
+    uses: 'The tender shoots are rich source of  Vitamin A and Vitamin C.'
+  },
+  {
+    '#': '96',
+    'Name of the Plant': 'Amaranthus viridis L.',
+    Family: 'AMARANTHACEAE',
+    'Common Name': 'Tanduliya (Sans.)',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000008841&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000008841L.jpg',
+    uses: 'The plant is utilized in snake-bite and scorpion-sting.'
+  },
+  {
+    '#': '97',
+    'Name of the Plant': 'Amaranthus caudatus L.',
+    Family: 'AMARANTHACEAE',
+    'Common Name': 'Ram dana',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000008916&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000008916L.jpg',
+    uses: 'It is used as pot herb.'
+  },
+  {
+    '#': '98',
+    'Name of the Plant': 'Amaranthus spinosus L.',
+    Family: 'AMARANTHACEAE',
+    'Common Name': 'Kataili chaulai',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000008915&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000008915L.jpg',
+    uses: 'It is febrifuge and is used for eruptive fevers. It is used as lactagogue. Leaves \n' +
+      'are emollient. Infusion of shoots are used in eczema.'
+  },
+  {
+    '#': '99',
+    'Name of the Plant': 'Ammania auriculata Willd.',
+    Family: 'LYTHRACEAE',
+    'Common Name': 'Jangli Mehndi',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000013793&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000013793L.jpg',
+    uses: 'The plant is used as a blistering agent.'
+  },
+  {
+    '#': '100',
+    'Name of the Plant': 'Ammania baccifera L.',
+    Family: 'LYTHRACEAE',
+    'Common Name': 'Dadmari',
+    'Herbarium Image and Uses': 'https://archive.bsi.gov.in/echoHerbarium-Details/en?link=CAL0000013791&column=szBarcode',     
+    imageurl: 'https://archive.bsi.gov.in/uploads/documents/EconomicHerbarium/english/ImgCAL0000013791L.jpg',
+    uses: 'Leaves are bitter, stomachic, appetizer, laxative and aphrodisiac. The juices causes ulcers and blebs. leaves are us
+ed in raising blisters in rheumatic pains, fevers.'
+  }
+]
